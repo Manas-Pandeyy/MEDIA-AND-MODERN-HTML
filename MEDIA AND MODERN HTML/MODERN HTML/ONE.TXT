@@ -1,0 +1,3 @@
+<!--List out the Features Of HTML5?-->
+  
+Answer1.  Semantic Elements,Audio and Video Support,Canvas Element, Geolocation API,Local Storage,Responsive Images,Web Workers,Drag and Drop API,Form Enhancements,Web Sockets,Micro Data And Cross Document Messaging.
